@@ -1,5 +1,10 @@
 # p14-oc-npm-modal-react
 
+Composant React ayant pour fonction de créer une simple modal personnalisable 
+- P14 - Formation Conception d'Application Js-React 
+
+Necessite node v20.11.0 , IDE : VSCODE 
+
 Install this package :
 ```
 npm install modal-p14-oc-react
